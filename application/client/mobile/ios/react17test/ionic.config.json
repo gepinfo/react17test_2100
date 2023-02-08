@@ -1,0 +1,7 @@
+{
+  "name": "react17test",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
